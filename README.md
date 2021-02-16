@@ -1,2 +1,2 @@
-# -IFPerguntas-game
+# IFPerguntas-game
 Jogo de perguntas java
